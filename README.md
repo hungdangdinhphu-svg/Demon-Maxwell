@@ -5,6 +5,10 @@ Liên quan: Demon Maxwell, C++ & py, Shannon entropy (Information Theory), Nhi�
 
 Liên quan: Phát biểu đầy đủ vấn đề, phát biểu lại lý thuyết và định luật. Tăng "độ phức tạp" của vấn đề lên mức "cực đoan" và giảm "độ phức tạp" của vấn đề xuống "cơ bản". Phân tích. Kết luận.
 
+---
+
+# Foundational theory
+
 ## Demon Maxwell
 
 <img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/9f361798-5998-4584-b01a-d87f81428d91" />
@@ -73,3 +77,6 @@ Fazlollah M. Reza (ngày 8 tháng 11 năm 1994). An Introduction to Information 
 ## Information Thermodynamics
 
 Arxiv: https://arxiv.org/pdf/2306.12447
+
+---
+
