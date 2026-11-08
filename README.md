@@ -7,6 +7,9 @@ Liên quan: Phát biểu đầy đủ vấn đề, phát biểu lại lý thuy�
 
 ## Demon Maxwell
 
+<img width="500" height="333" alt="image" src="https://github.com/user-attachments/assets/9f361798-5998-4584-b01a-d87f81428d91" />
+
+
 Con quỷ Maxwell là một thí nghiệm tưởng tượng của nhà vật lý người Scotland, James Clerk Maxwell, thực hiện vào năm 1867, để tìm hiểu về định luật hai của nhiệt động lực học. Theo định luật này, khi hai vật thể có cùng nhiệt độ được cho tiếp xúc với nhau, và được cô lập khỏi môi trường, chúng không thể biến đổi trạng thái để một vật có nhiệt độ cao hơn vật kia. Lý do là với các hệ cô lập thì entropy không bao giờ giảm, trong khi trạng thái hai vật thể có nhiệt độ bằng nhau đã có entropy cực đại. Thí nghiệm tưởng tượng của Maxwell muốn tạo ra một màng ngăn cách hai vật thể, gọi là con quỷ Maxwell, thúc đẩy trao đổi nhiệt một chiều khiến một vật có nhiệt độ cao hơn vật kia.
 
 Maxwell mô tả thí nghiệm của ông:
