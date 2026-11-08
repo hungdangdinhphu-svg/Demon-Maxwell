@@ -70,3 +70,6 @@ David R. Anderson (ngày 1 tháng 11 năm 2003). "Some background on why people 
 
 Fazlollah M. Reza (ngày 8 tháng 11 năm 1994). An Introduction to Information Theory. Dover Publications, Inc., New York. ISBN 0-486-68210-2.
 
+## Information Thermodynamics
+
+Arxiv: https://arxiv.org/pdf/2306.12447
