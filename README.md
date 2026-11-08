@@ -29,7 +29,6 @@ Jordy, W.H. (1952). Henry Adams: Scientific Historian. New Haven. ISBN 068526683
 
 Leff, H.S. & Rex, A.F. (eds) (1990). Maxwell's Demon: Entropy, Information, Computing. Bristol: Adam-Hilger. ISBN 0750300574. {{Chú thích sách}}: |author= có tên chung (trợ giúp), may be out of print but contains several papers not in 2003 edition.
 
-- (2003). Maxwell's Demon 2: Entropy, Classical and Quantum Information, Computing. Institute of Physics. ISBN 0750307595. {{Chú thích sách}}: |author= có tên số (trợ giúp), Contents Lưu trữ ngày 31 tháng 10 năm 2010 tại Wayback Machine - an anthology and comprehensive bibliography of academic papers pertaining to Maxwell's demon and related topics. Chapter 1 Lưu trữ ngày 9 tháng 11 năm 2005 tại Wayback Machine provides a historical overview of the demon's origin and solutions to the paradox.
 
 Maxwell, J.C. (1871). Theory of Heat., reprinted (2001) New York: Dover, ISBN 0486417352
 
