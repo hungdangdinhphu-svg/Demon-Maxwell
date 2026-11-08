@@ -35,4 +35,38 @@ Leff, H.S. & Rex, A.F. (eds) (1990). Maxwell's Demon: Entropy, Information, Comp
 
 Maxwell, J.C. (1871). Theory of Heat., reprinted (2001) New York: Dover, ISBN 0486417352
 
-##
+## Lý thuyết thông tin
+
+Lý thuyết thông tin là một nhánh của toán học ứng dụng và kĩ thuật điện nghiên cứu về đo đạc lượng thông tin. Lý thuyết thông tin được xây dựng bởi Claude E. Shannon để xác định giới hạn cơ bản trong các hoạt động xử lý tín hiệu chẳng hạn như nén dữ liệu hay lưu trữ và truyền dẫn dữ liệu. Ngay từ những ngày đầu, nó đã mở rộng phạm vi ứng dụng ra nhiều lĩnh vực khác, bao gồm suy luận thống kê, xử lý ngôn ngữ tự nhiên, mật mã học, các mạng lưới bên cạnh mạng lưới viễn thông - chẳng hạn như trong thần kinh,[1] sự tiến hóa[2] và chức năng[3] của các mã phân tử, lựa chọn mô hình[4] trong sinh thái học, vật lý nhiệt, máy tính lượng tử,[5] phát hiện sao chép[6] và các hình thức phân tích dữ liệu khác.[7]
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f1028547-19ac-45c2-b56c-557730229510" />
+
+
+Một độ đo cơ bản của thông tin là entropy, thường được diễn đạt dưới dạng số lượng bit cần thiết trung bình để lưu trữ hoặc dẫn truyền. Entropy lượng hóa sự không chắc chắn trong việc dự đoán giá trị của một biến ngẫu nhiên. Ví dụ như, xác định kết quả của một lần tung đồng xu công bằng (hai kết quả có khả năng như nhau) cho ít thông tin hơn (entropy nhỏ hơn) là xác định kết quả của một lần tung xúc sắc (sáu kết quả có khả năng như nhau).
+
+<img width="283" height="130" alt="image" src="https://github.com/user-attachments/assets/cebf2c3b-cdb8-4999-91c4-f4f0dfda7c8a" />
+
+
+
+Các ứng dụng cơ bản của lý thuyết thông tin bao gồm nén không mất dữ liệu (chẳng hạn như ZIP), nén mất dữ liệu (chẳng hạn MP3, JPG), mã hóa kênh (chẳng hạn như trong DSL). Lý thuyết thông tin nằm ở phần giao nhau giữa toán học, thống kê, khoa học máy tính, vật lý, thần kinh, và kĩ thuật điện. Các ngành hẹp quan trọng của lý thuyết thông tin bao gồm mã hóa nguồn, mã hóa kênh, lý thuyết thông tin thuật toán, bảo mật theo lý thuyết thông tin.
+
+**Liên quan:** 
+
+F. Rieke, D. Warland, R Ruyter van Steveninck, W Bialek, Spikes: Exploring the Neural Code. The MIT press (1997).
+
+cf. Huelsenbeck, J. P., F. Ronquist, R. Nielsen and J. P. Bollback (2001) Bayesian inference of phylogeny and its impact on evolutionary biology, Science 294:2310-2314
+
+Rando Allikmets, Wyeth W. Wasserman, Amy Hutchinson, Philip Smallwood, Jeremy Nathans, Peter K. Rogan, Thomas D. Schneider Lưu trữ ngày 4 tháng 2 năm 2012 tại Wayback Machine, Michael Dean (1998) Organization of the ABCR gene: analysis of promoter and splice junction sequences, Gene 215:1, 111-122
+
+Burnham, K. P. and Anderson D. R. (2002) Model Selection and Multimodel Inference: A Practical Information-Theoretic Approach, Second Edition (Springer Science, New York) ISBN 978-0-387-95364-9.
+
+
+Jaynes, E. T. (1957) Information Theory and Statistical Mechanics, Phys. Rev. 106:620
+
+Charles H. Bennett, Ming Li, and Bin Ma (2003) Chain Letters and Evolutionary Histories Lưu trữ ngày 7 tháng 10 năm 2007 tại Wayback Machine
+
+
+David R. Anderson (ngày 1 tháng 11 năm 2003). "Some background on why people in the empirical sciences may want to better understand the information-theoretic methods" (PDF). Bản gốc (pdf) lưu trữ ngày 23 tháng 7 năm 2011. Truy cập ngày 23 tháng 6 năm 2010.
+
+Fazlollah M. Reza (ngày 8 tháng 11 năm 1994). An Introduction to Information Theory. Dover Publications, Inc., New York. ISBN 0-486-68210-2.
+
